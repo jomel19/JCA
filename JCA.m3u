@@ -8,9 +8,6 @@ http://190.216.162.156:8001/play/a03e/index.m3u8
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a04i
-#EXTINF:-1,PANAMERICANA 
-#EXTGRP:PERU
-http://38.41.8.1:8000/play/a0s0
 #EXTINF:-1,PANAMERICANA HD
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a05e
@@ -31,6 +28,9 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,RPP HD
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a05q/index.m3u8
+#EXTINF:-1,EXITOSA HD
+#EXTGRP:PERU
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1,NATIVA TV
 #EXTGRP: PERU
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
