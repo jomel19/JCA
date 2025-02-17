@@ -113,7 +113,8 @@ http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilznXRr-nUZs-jq0cqtzpbbA
 #EXTGRP:DEPORTES
 http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil594pWKcyrak9p34y3v6fhE
 #EXTINF:-1,BETHEL TV
-http://209.45.52.14:8000/play/a0z5/index.m3u8
+#EXTGRP: TV CRISTIANA
+http://209.45.52.14:8000/play/a1jw/index.m3u8
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://200.60.124.19:29000/play/a01y
