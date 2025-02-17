@@ -22,9 +22,9 @@ http://200.60.124.19:29000/play/a0b9
 http://190.216.162.156:8001/play/a05o
 #EXTINF:-1,ATV HD
 http://8.243.126.131:8000/play/a0bt/index.m3u8
-#EXTINF:-1,ATV+
+#EXTINF:-1,ATV +
 #EXTGRP:PERU
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,RPP HD
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a05q/index.m3u8
