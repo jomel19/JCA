@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Latina HD
 #EXTGRP:PERU
-http://45.181.122.201:8081/play/a074
+http://190.216.162.156:8001/play/a04k/index.m3u8
+#EXTINF:-1,Latina 1.3 HD
+#EXTGRP:PERU
+http://209.45.52.14:8000/play/a16k/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 #EXTGRP:DEPORTES
-http://playtvpremium.xyz:2095/live/56959239052playtv/110923playtv/316497.ts
+http://190.216.162.156:8001/play/a03e/index.m3u8
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a04i
@@ -39,19 +42,25 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/v
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,WILLAX TV
 #EXTGRP: PERU
-https://live-b2.cf.dmcdn.net/sec2(29MLz3xs72OPtDPy5UtyDkydheAKZ8CuZQ5hNE_P-rzk9cAEmVT09PMvtRPpSYRcSMdBSmnazBB7Tb-6aSEa70IyFlkSBCDs_M2smHHHJHvryP9h5Ko9oDmTN-JDWROS)/cloud/3/x7x4dgx/s/live-720.m3u8
+http://200.215.251.253:8040/play/a025
 #EXTINF:-1,GLOBAL
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a05r/index.m3u8
 #EXTINF:-1,GOLPERU HD 
 #EXTGRP:DEPORTES 
-http://908030.space/live/javiperez/perezjavi/123478.ts
+http://190.216.162.156:8001/play/a03m/index.m3u8
 #EXTINF:-1,L1 MAX HD
 #EXTGRP:DEPORTES 
 http://190.216.162.156:8001/play/a05l/index.m3u8
+#EXTINF:-1,DSPORTS GO HD
+#EXTGRP:DEPORTES
+http://190.216.162.156:8001/play/a05f/index.m3u8
 #EXTINF:-1,DSPORTS HD
 #EXTGRP:DEPORTES
 http://cciptv.es/live/95827389/TgHsyqXc62/424311.ts
+#EXTINF:-1,DSPORTS 2 GO HD
+#EXTGRP:DEPORTES 
+http://190.216.162.156:8001/play/a05g/index.m3u8
 #EXTINF:-1,DSPORTS 2 HD
 #EXTGRP:DEPORTES 
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/257326.ts
@@ -61,6 +70,9 @@ http://maxcuentas.pro:8080/live/useradjw/VGKTH/518959.ts
 #EXTINF:-1,ESPN HD
 #EXTGRP: DEPORTES 
 http://190.216.162.156:8001/play/a062/index.m3u8
+#EXTINF:-1,ESPN HD
+#EXTGRP: DEPORTES 
+http://209.45.52.14:8000/play/a1ik/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 #EXTGRP: DEPORTES 
 http://190.216.162.156:8001/play/a03z/index.m3u8
@@ -82,9 +94,6 @@ http://190.216.162.156:8001/play/a08n/index.m3u8
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP: DEPORTES 
 http://190.216.162.156:8001/play/a04j/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 AR HD
-#EXTGRP: DEPORTES 
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/456
 #EXTINF:-1,FOX SPORTS 3 AR HD
 #EXTGRP: DEPORTES 
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/158518.ts
@@ -109,14 +118,11 @@ http://45.5.117.182:8000/play/jnl0
 #EXTINF:-1,TUDN
 #EXTGRP:DEPORTES 
 http://moontools.me:8080/aleX674c5/soliZ35/1165034
-#EXTINF:-1,TIGO BOL
-#EXTGRP:DEPORTES
-http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilznXRr-nUZs-jq0cqtzpbbA
 #EXTINF:-1,BEIN SPORTS ESPAÑOL
 #EXTGRP:DEPORTES
 http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil594pWKcyrak9p34y3v6fhE
 #EXTINF:-1,BETHEL TV
-http://209.45.52.14:8000/play/a0z5/index.m3u8
+http://209.45.52.14:8000/play/a1jw/index.m3u8
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://200.60.124.19:29000/play/a01y
