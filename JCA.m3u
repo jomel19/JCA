@@ -8,21 +8,24 @@ http://209.45.52.14:8000/play/a16k/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 #EXTGRP:DEPORTES
 http://200.59.188.3:8000/play/a0ub
+#EXTINF:-1,Movistar Deportes HD
+#EXTGRP:DEPORTES
+http://190.216.162.156:8001/play/a09i/index.m3u8
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
-http://200.59.188.3:8000/play/a0li
+http://200.60.124.19:29000/play/a008/index.m3u8
 #EXTINF:-1,America TV 1.4 HD
 #EXTGRP:PERU
-http://201.182.248.254:8888/play/a094
+http://201.182.248.254:8888/play/a0co/index.m3u8
+#EXTINF:-1,America TV 1.5 HD
+#EXTGRP:PERU
+http://38.41.8.1:8000/play/a0t6
 #EXTINF:-1,PANAMERICANA 
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a04s/index.m3u8
 #EXTINF:-1,PANAMERICANA 
 #EXTGRP:PERU
 http://38.41.8.1:8000/play/a0s0
-#EXTINF:-1,PLUS TV HD
-#EXTGRP:PERU
-http://8.243.126.131:8000/play/a0e3/index.m3u8
 #EXTINF:-1,TV PERU
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a0b9
@@ -30,7 +33,14 @@ http://200.60.124.19:29000/play/a0b9
 #EXTGRP:PERU
 http://38.41.8.1:8000/play/a0s3
 #EXTINF:-1,ATV HD
-http://8.243.126.131:8000/play/a0bt/index.m3u8
+#EXTGRP:PERU
+http://190.216.162.156:8001/play/a09g/index.m3u8
+#EXTINF:-1,ATV HD
+#EXTGRP:PERU
+http://190.216.162.156:8001/play/a05p/index.m3u8
+#EXTINF:-1,ATV HD
+#EXTGRP:PERU
+http://200.60.124.19:29000/play/a04t/index.m3u8
 #EXTINF:-1,ATV+
 #EXTGRP:PERU
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -63,7 +73,7 @@ http://maxcuentas.pro:8080/live/useradjw/VGKTH/478009.ts
 http://200.60.124.19:29000/play/a07k/index.m3u8
 #EXTINF:-1,DSPORTS HD
 #EXTGRP:DEPORTES
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2194369
+http://190.216.162.156:8001/play/a09s/index.m3u8
 #EXTINF:-1,DSPORTS 2 GO HD
 #EXTGRP:DEPORTES 
 http://200.59.188.3:8000/play/a0xf
