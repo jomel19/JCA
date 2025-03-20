@@ -55,7 +55,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/v
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,WILLAX TV
 #EXTGRP: PERU
-http://200.215.251.253:8040/play/a025/index.m3u8
+http://200.60.124.19:29000/play/a06s/index.m3u8
 #EXTINF:-1,GLOBAL
 #EXTGRP:PERU
 http://190.83.60.34:1414/play/a07f/index.m3u8
